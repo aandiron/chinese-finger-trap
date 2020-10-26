@@ -5,3 +5,6 @@ build
 *.tiff
 *.tif
 *.gif
+*.aux
+*.log
+*.pdf
