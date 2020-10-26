@@ -1,7 +1,7 @@
 README.md
-Last modified: Mon Oct 26, 2020  05:56PM
+Last modified: Mon Oct 26, 2020  06:21PM
 
-# Chinese Finger Trap
+# Chinese Finger Trap — Figuratively, that is. 
 * By A. Andiron
 
 ## How to read it:
@@ -13,7 +13,7 @@ Last modified: Mon Oct 26, 2020  05:56PM
 ## Compilation notes:
 * pdflatex ./chinese-finger-trap.tex
 
-## Licence:
+## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 	* CC BY-NC-SA 4.0
 	* See: [LICENSE](./LICENSE)
